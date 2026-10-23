@@ -119,7 +119,7 @@ mkdir "Smart Farm Project\src\sensors\temperature"
 - mkdir smart-farm/data/logs, smart-farm/code
 - New-Item -ItemType File -Path "config.json", "sensors.py", ".env"  
 - Copy-Item  "smart-farm\code"  "backup\code_v1" -Recurse
-Yêu cầu đầu ra
+- Yêu cầu đầu ra
 Input (đầu vào):
 - Tạo các thư mục: code, data/logs, và backup.
 - Tạo các file cùng lúc với cấu hình: config.json, sensors.py, .env
